@@ -82,6 +82,14 @@ Available styles: `dots`, `line`, `bounce`, `braille`, `arrow`.
 | `Spinner.fail(text)` | Stop with a failure symbol |
 | `Spinner.warn(text)` | Stop with a warning symbol |
 
+
+## Development
+
+```bash
+pip install -e .
+python -m pytest tests/ -v
+```
+
 ## License
 
 MIT
