@@ -24,9 +24,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/philiprehberger/py-cli-spinner"
+Homepage = "https://github.com/philiprehberger/py-cli-spinner#readme"
 Repository = "https://github.com/philiprehberger/py-cli-spinner"
 Issues = "https://github.com/philiprehberger/py-cli-spinner/issues"
+Changelog = "https://github.com/philiprehberger/py-cli-spinner/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/philiprehberger_cli_spinner"]

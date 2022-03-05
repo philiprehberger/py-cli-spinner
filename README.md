@@ -6,7 +6,7 @@
 
 Dead-simple terminal spinners and progress indicators for CLI scripts.
 
-## Install
+## Installation
 
 ```bash
 pip install philiprehberger-cli-spinner
