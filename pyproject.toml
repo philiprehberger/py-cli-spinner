@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "philiprehberger-cli-spinner"
-version = "0.1.5"
+version = "0.1.6"
 description = "Dead-simple terminal spinners and progress indicators for CLI scripts"
 readme = "README.md"
 license = "MIT"
@@ -31,3 +31,9 @@ Changelog = "https://github.com/philiprehberger/py-cli-spinner/blob/main/CHANGEL
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/philiprehberger_cli_spinner"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.mypy]
+strict = true
