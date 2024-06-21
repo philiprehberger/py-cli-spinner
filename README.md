@@ -2,8 +2,7 @@
 
 [![Tests](https://github.com/philiprehberger/py-cli-spinner/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/py-cli-spinner/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/philiprehberger-cli-spinner.svg)](https://pypi.org/project/philiprehberger-cli-spinner/)
-[![License](https://img.shields.io/github/license/philiprehberger/py-cli-spinner)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/py-cli-spinner)](https://github.com/philiprehberger/py-cli-spinner/commits/main)
 
 Dead-simple terminal spinners and progress indicators for CLI scripts.
 
@@ -83,7 +82,6 @@ Available styles: `dots`, `line`, `bounce`, `braille`, `arrow`.
 | `Spinner.fail(text)` | Stop with a failure symbol |
 | `Spinner.warn(text)` | Stop with a warning symbol |
 
-
 ## Development
 
 ```bash
@@ -91,6 +89,24 @@ pip install -e .
 python -m pytest tests/ -v
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/py-cli-spinner)
+
+🐛 [Report issues](https://github.com/philiprehberger/py-cli-spinner/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/py-cli-spinner/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
