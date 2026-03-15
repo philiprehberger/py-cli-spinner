@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "philiprehberger-cli-spinner"
-version = "0.1.0"
+version = "0.1.1"
 description = "Dead-simple terminal spinners and progress indicators for CLI scripts"
 readme = "README.md"
 license = "MIT"
