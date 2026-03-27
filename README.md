@@ -3,6 +3,7 @@
 [![Tests](https://github.com/philiprehberger/py-cli-spinner/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/py-cli-spinner/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/philiprehberger-cli-spinner.svg)](https://pypi.org/project/philiprehberger-cli-spinner/)
 [![License](https://img.shields.io/github/license/philiprehberger/py-cli-spinner)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Dead-simple terminal spinners and progress indicators for CLI scripts.
 
