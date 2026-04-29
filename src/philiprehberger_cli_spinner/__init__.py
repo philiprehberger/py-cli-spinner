@@ -78,6 +78,10 @@ class Spinner:
         """Stop the spinner and show a warning message."""
         self._finish("⚠", text)
 
+    def info(self, text: str | None = None) -> None:
+        """Stop the spinner and show an informational message."""
+        self._finish("ⓘ", text)
+
     # -- context manager ------------------------------------------------------
 
     def __enter__(self) -> Spinner:

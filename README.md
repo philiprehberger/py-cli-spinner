@@ -81,6 +81,7 @@ Available styles: `dots`, `line`, `bounce`, `braille`, `arrow`.
 | `Spinner.succeed(text)` | Stop with a success symbol |
 | `Spinner.fail(text)` | Stop with a failure symbol |
 | `Spinner.warn(text)` | Stop with a warning symbol |
+| `Spinner.info(text)` | Stop with an info symbol |
 
 ## Development
 
